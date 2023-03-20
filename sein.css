@@ -1,0 +1,39 @@
+body{
+    background-color: LightCyan;
+    text-align: center;
+    padding-top: 50px;
+    font-family: 'Fasthand', cursive;
+font-family: 'Sacramento', cursive;
+font-size: 30px;
+}
+.cloud1{
+    position: absolute;
+    right:200px;
+}
+.cloud2{
+    position:absolute;
+    left:100px;
+    top: 200px;
+}
+.cloud3{
+    position:absolute;
+    left:600px;
+    bottom: 250px;
+}
+.hike4{
+    position:absolute;
+    bottom:0px;
+    right: 400px;
+}
+.hike5{
+    position:absolute;
+    left:350px;
+    bottom:0px; 
+}
+h1{
+    padding-top: 15px;
+    margin-bottom: 0px;
+}
+p{
+    margin-top: 0px;
+}
